@@ -1,0 +1,27 @@
+{
+  "name": "unicesusc-devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LorenzoOsorioGS/UNICESUSC-DevOps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LorenzoOsorioGS/UNICESUSC-DevOps/issues"
+  },
+  "homepage": "https://github.com/LorenzoOsorioGS/UNICESUSC-DevOps#readme",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
